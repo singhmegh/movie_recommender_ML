@@ -13,10 +13,6 @@ It suggests movies based on similarity scores computed from movie metadata.
 
 # Installation & Setup
 
-# Clone Repository
-git clone https://github.com/your-username/movie-recommender-system.git
-cd movie-recommender-system
-
 # Create Virtual Environment
 python -m venv .venv
 source .venv/bin/activate   # Linux/Mac
